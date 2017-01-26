@@ -1,0 +1,5 @@
+core = "7.x"
+description = "Boards and Committees Expression of Interest Form"
+name = "Expression of Interest Form"
+package = "BDA FORMS"
+dependencies[] = "bda_forms"
