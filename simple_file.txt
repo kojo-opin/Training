@@ -1,4 +1,7 @@
 This is my third file to
 play with.
 
-A simple file...
+A simple file..s
+
+This is interesting. Finally figured out how to modify a file using vim.
+
