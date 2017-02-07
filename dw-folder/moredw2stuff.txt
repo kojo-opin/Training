@@ -1,0 +1,7 @@
+Another file for my branch
+
+This is starting to look interesting.
+
+Lets mix it up
+
+Do I always have to use the git add to move files to staging prior to committing them?
