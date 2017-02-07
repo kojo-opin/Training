@@ -12,5 +12,4 @@ Make 7 Commits in a branch that is named after you
 
 Merge your branch into the dev branch and push it up
 
---Travis Edit --
-• One last adjustment. Let's try tagging next
+
