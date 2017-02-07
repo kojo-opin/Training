@@ -1,0 +1,12 @@
+Sample file for this training.
+
+Just playing around and will "ADD" this for tracking
+
+More changes to check with the "diff" command
+Noticing the colour coding to indicate recent changes to local files. Will try a commit now.
+
+Lets make another change ...
+
+
+Another change to this file
+
